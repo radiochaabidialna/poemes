@@ -1,0 +1,10 @@
+<?php
+return [
+    'host' => 'localhost',
+    'user' => 'root',
+    'pass' => 'root',
+    'name_qac' => 'chaabi_music_qacidats',
+    'name_bio' => 'chaabi_music_v7_bilingue',
+    'name_glo' => 'webchaabi',
+    'charset' => 'utf8mb4',
+];
